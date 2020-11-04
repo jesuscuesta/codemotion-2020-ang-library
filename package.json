@@ -1,0 +1,19 @@
+{
+  "name": "anime",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^10.2.0",
+    "@angular/core": "^10.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/anime.umd.js",
+  "module": "fesm2015/anime.js",
+  "es2015": "fesm2015/anime.js",
+  "esm2015": "esm2015/anime.js",
+  "fesm2015": "fesm2015/anime.js",
+  "typings": "anime.d.ts",
+  "metadata": "anime.metadata.json",
+  "sideEffects": false
+}
